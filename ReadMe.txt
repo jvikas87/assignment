@@ -1,0 +1,1 @@
+1.Make database assignment in mysql (Properties are mentioned in mysql.properties).
