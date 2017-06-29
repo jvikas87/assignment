@@ -1,5 +1,6 @@
 #Make database assignment in mysql (Properties are mentioned in mysql.properties).
 
+This is a maven project so war file can be generated using mvn clean install and deployed to tomcat or any other server.
 Document Related to API:
 
 1. I assumed that this API is called from Admin Only and Admin passing valid infomation only i.e 
